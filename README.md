@@ -1,17 +1,19 @@
 
 <h1 align="center">🌌 Hey, I'm First 👋</h1>
-<p align="center">🪐 Web Explorer | ☁️ Azure Learner | 🔭 Code Tinkerer</p>
+<p align="center">🪐 Code Learner </p>
 
 ---
-
 ### 🚀 About Me
 - 👨‍🚀 Currently learning:`GTM`, `GA4`
-- 🎯 Goal: get rich!
-- 🛰️ Connect: [LinkedIn](https://www.linkedin.com/in/narawit-prathansap-028bb8262/)
-
 ---
+### 🌌 My Focus Areas
 
-### 🌠 Tools & Tech
+🚀 **Data Analysis**  
+- Python (pandas, NumPy)  
+- Jupyter Notebooks  
+- SQL
+- linux
+## 🌠 Tools & Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,azure,vscode,python,linux&theme=dark" />
 </p>
