@@ -1,5 +1,5 @@
 
-<h1 align="center">🌌 Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">🌌 Hey, I'm First 👋</h1>
 <p align="center">🪐 Web Explorer | ☁️ Azure Learner | 🔭 Code Tinkerer</p>
 
 ---
@@ -13,7 +13,7 @@
 
 ### 🌠 Tools & Tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,azure,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,azure,vscode,python,linux&theme=dark" />
 </p>
 
 ---
