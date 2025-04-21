@@ -1,18 +1,3 @@
-
-<h1 align="center">🌌 Hey, I'm First 👋</h1>
-<p align="center">🪐 Code Learner </p>
-
----
-### 🚀 About Me
-- 👨‍🚀 Currently learning:`GTM`, `GA4`
----
-### 🌌 My Focus Areas
-
-🚀 **Data Analysis**  
-- Python (pandas, NumPy)  
-- Jupyter Notebooks  
-- SQL
-- linux
 ## 🌠 Tools & Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,azure,vscode,python,linux&theme=dark" />
