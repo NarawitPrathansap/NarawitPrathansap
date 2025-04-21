@@ -1,7 +1,3 @@
-<!-- Galaxy Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/0Zf5g6X.gif" width="100%" alt="galaxy banner"/>
-</p>
 
 <h1 align="center">🌌 Hey, I'm [Your Name] 👋</h1>
 <p align="center">🪐 Web Explorer | ☁️ Azure Learner | 🔭 Code Tinkerer</p>
