@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 👨‍🚀 Currently learning: `Azure`, `GTM`, `GA4`
 - 🎯 Goal: Deploy my first interstellar project 🚀
-- 🛰️ Connect: [LinkedIn](https://linkedin.com/in/yourname) | [Twitter](https://twitter.com/yourhandle)
+- 🛰️ Connect: [LinkedIn](https://www.linkedin.com/in/narawit-prathansap-028bb8262/)
 
 ---
 
